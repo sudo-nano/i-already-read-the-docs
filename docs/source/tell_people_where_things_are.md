@@ -1,5 +1,4 @@
-Tell people where things are!
-=============================
+# Tell people where things are!
 
 If you're asking a user to obtain a file, click a button, or change a setting,
 tell them where it is! Pictures are best, but a written description is far better
