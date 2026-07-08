@@ -21,6 +21,7 @@ Contents
 
 .. toctree::
 
+   Documentation Wall of Shame
    tell_people_where_things_are
    usage
    api
